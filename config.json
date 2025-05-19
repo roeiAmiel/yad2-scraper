@@ -1,10 +1,14 @@
 {
-  "telegramApiToken": null,
-  "chatId": null,
+  "telegramApiToken": "7509552593:AAFbuCL20MOY6HFIwThtIhtFxpq1HAENV8Y",
+  "chatId": 6007334054,
   "projects": [
     {
-      "topic": "",
-      "url": ""
+      "topic": "PardesHana",
+      "url": "https://www.yad2.co.il/realestate/rent?maxPrice=3500&minRooms=2&maxRooms=3.5&bBox=32.448505%2C34.929576%2C32.493025%2C34.997892&imageOnly=1&priceOnly=1"
+    },
+    {
+      "topic": "Haifa",
+      "url": "https://www.yad2.co.il/realestate/rent?maxPrice=3500&minRooms=2&maxRooms=3.5&imageOnly=1&priceOnly=1&topArea=25&area=5&city=4000&neighborhood=606&zoom=15"
     }
   ]
 }
